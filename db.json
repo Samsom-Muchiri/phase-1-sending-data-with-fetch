@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,98 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "Name": "Sam",
+      "Email": "samsonmuchiri607@gmail.com",
+      "id": 1
+    },
+    {
+      "Name": "Sam",
+      "Email": "samsonmuchiri607@gmail.com",
+      "id": 2
+    },
+    {
+      "Name": "Sam",
+      "Email": "samsonmuchiri607@gmail.com",
+      "id": 3
+    },
+    {
+      "Name": "Sam",
+      "Email": "samsonmuchiri607@gmail.com",
+      "id": 4
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "id": 5
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "id": 6
+    },
+    {
+      "Name": "Sam",
+      "Email": "samsonmuchiri607@gmail.com",
+      "id": 7
+    },
+    {
+      "Name": "Sam",
+      "Email": "samsonmuchiri607@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "sam",
+      "email": "samsonmuchiri607@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "sam",
+      "email": "samsonmuchiri607@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "sam",
+      "email": "samsonmuchiri607@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "sam",
+      "email": "samsonmuchiri607@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "id": 15
+    },
+    {
+      "Name": "Sam",
+      "Email": "samsonmuchiri607@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "id": 17
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
